@@ -1,0 +1,7 @@
+ARIMA Settings:
+
+p: 2
+d: 0
+q: 2
+
+MAE of Facebook Prophet Model:  1.688
